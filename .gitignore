@@ -1,0 +1,17 @@
+z# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
