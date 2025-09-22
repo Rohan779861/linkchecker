@@ -20,7 +20,7 @@ Built in **TypeScript** and compiled to Node.js JavaScript.
 
 ### 
 ```bash
-git clone https://github.com/RLuciferG/linkchecker.git
+git clone https://github.com/Rohan779861/linkchecker.git
 cd link-checker
 npm install
 npm run build
