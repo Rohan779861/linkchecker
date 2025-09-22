@@ -24,5 +24,5 @@ git clone https://github.com/RLuciferG/linkchecker.git
 cd link-checker
 npm install
 npm run build
-node dist/type.js <url>
+node dist/linkchecker.js <url>
 # linkchecker
